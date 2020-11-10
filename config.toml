@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "https://hugo-serif-theme-from-codemon.netlify.app/"
 languageCode = "en-us"
 title = "Hugo Serif Theme"
 
