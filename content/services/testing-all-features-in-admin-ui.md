@@ -3,7 +3,7 @@ title: Testing all Features in Admin UI
 date: 2020-11-10T12:47:57.478Z
 draft: "false"
 featured: "true"
-weight: 2
+weight: 1
 ---
 **Testing**
 
