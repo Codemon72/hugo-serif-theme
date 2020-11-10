@@ -1,8 +1,8 @@
 ---
 title: Testing all Features in Admin UI
 date: 2020-11-10T12:47:57.478Z
-featured: "true"
 draft: "false"
+featured: true
 weight: 1
 ---
 **Testing**
